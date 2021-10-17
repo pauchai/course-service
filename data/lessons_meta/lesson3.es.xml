@@ -1,0 +1,86 @@
+<lesson no="1">
+    <header>
+        <video src=""/>
+    </header>
+    <body>
+        <block category="repeat">
+            <conjugation verb="preguntar" type="Indicativo presente"/>
+            <conjugation verb="vivir" type="Indicativo presente"/>
+            <conjugation verb="bailar" type="Indicativo presente"/>
+            <conjugation verb="descansar" type="Indicativo presente"/>
+            <conjugation verb="ayudar" type="Indicativo presente"/>
+            <conjugation verb="comer" type="Indicativo presente"/>
+        </block>
+        <block >
+            <conjugation verb="tomar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="preguntar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="contestar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="preguntar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="olvidar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="trabajar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="descansar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="comer" type="Indicativo pretérito perfecto simple"/>
+            <phrase>Tú comiste mucho?</phrase>
+            <phrase>Si, yo comí mucho</phrase>
+            <conjugation verb="vivir" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="tomar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="cantar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="bailar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="escribir" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="amar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="comprar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="comprender" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="visitar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="comparar" type="Indicativo pretérito perfecto simple"/>
+        </block>
+        <block>
+            <conjugation verb="ser" type="Indicativo pretérito perfecto simple" baseForm="1s"/>
+            <conjugation verb="ser" type="Indicativo presente"/>
+            <conjugation verb="estar" type="Indicativo pretérito perfecto simple"/>
+            <conjugation verb="estar" type="Indicativo presente"/>
+            <conjugation verb="ir" type="Indicativo presente"/>
+            <conjugation verb="ir" type="Indicativo pretérito perfecto simple"/>
+            <rule>ir прошедшее = ser прошедшее</rule>
+            <phrase>¿Dónde? </phrase>
+                <phrase>¿A dónde?</phrase>
+                <phrase>¿A dónde tú vas?</phrase>
+
+        </block>
+        <block>
+            <rule>ir + a = простая форма будущего</rule>
+            <phrase>yo voy a bailar</phrase>
+            <phrase>Nosotros vamos a comer</phrase>
+            <phrase>yo voy a descansar</phrase>
+            <phrase> tu vas a descansar</phrase>
+            <phrase>nosotros vamos a cantar</phrase>
+
+        </block>
+        <block>
+            <phrase>Yo quiero ir</phrase>
+            <phrase>Me gusta ir al teatro</phrase>
+            <phrase>me va a gustar</phrase>
+            <phrase>Ella me gustó</phrase>
+            <phrase>Tú me gustaste</phrase>
+        </block>
+        <block>
+            <conjugation verb="tener" type="Indicativo presente"></conjugation>
+            <conjugation verb="tener" type="Indicativo pretérito perfecto simple"></conjugation>
+            <phrase>¿Que tú tienes?</phrase>
+        </block>
+        <block title="Семья">
+            <phrase>Familia</phrase>
+            <phrase>padre</phrase>
+            <phrase>madre</phrase>
+            <phrase>hijo</phrase>
+                <phrase>hija</phrase>
+                <phrase>hijos</phrase>
+                <phrase>hermano</phrase>
+            <phrase>hermana</phrase>
+                <phrase>marido муж</phrase>
+            <phrase>mujer жена . женщина</phrase>
+                <phrase>hombre  мужчина</phrase>
+        </block>
+    </body>
+</lesson>
+
+

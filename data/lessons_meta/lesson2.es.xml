@@ -1,0 +1,127 @@
+<lesson no="2">
+    <header>
+        <video src=""/>
+    </header>
+    <body>
+        <block >
+            <phrase variant="plural_gender">Amigo</phrase>
+            <conjugation verb="preguntar" type="Indicative presente"/>
+            <conjugation verb="contestar" type="Indicative presente"/>
+            <conjugation verb="comer" type="Indicative presente"/>
+            <conjugation verb="beber" type="Indicative presente"/>
+            <conjugation verb="vivir" type="Indicative presente"/>
+        </block>
+        <block>
+            <rule>Глаголы на AR,ER,IR</rule>
+        </block>
+        <block>
+            <conjugation verb="ser" type="Indicative presente" />
+            <phrase>esto es</phrase>
+        </block>
+        <block category="question word">
+            <tag>¿qué?</tag>
+            <phrase>¿Qué tú comes?</phrase>
+            <tag>¿Quién?</tag>
+            <phrase>¿Quién habla?</phrase>
+            <tag>¿Dónde?</tag>
+            <phrase>¿Dónde vives?</phrase>
+            <tag>¿Cuándo?</tag>
+            <phrase>¿Cuándo tú descansas?</phrase>
+            <phrase>¿Por qué?</phrase>
+            <phrase>¿Por qué no trabajas?</phrase>
+            <tag>¿Cómo?</tag>
+            <phrase>¿Cómo te llamas?</phrase>
+            <tag>¿Cuánto?</tag>
+            <phrase>¿Cuántos amigos?</phrase>
+            <phrase>¿Cuántas amigas?</phrase>
+            <phrase>¿Cuánto cuesta?</phrase>
+            <phrase>¿Cuánto es esto?</phrase>
+            <rule>C + a, o ,u = звук К
+                C + e, i = звук C</rule>
+            <block>
+            <rule>
+                [EN]
+                ->A
+                DE->
+                предлоги A EN DE
+            </rule>
+                <phrase>a Españia</phrase>
+                <phrase>en Españia</phrase>
+                <phrase>de Españia</phrase>
+            </block>
+
+            <phrase>¿Dónde vives?</phrase>
+            <phrase>¿Dónde trabajas?</phrase>
+            <phrase>¿Quién eres?</phrase>
+            <phrase>¿Qué eres?</phrase>
+            <execise>
+                Добрый день!
+                Меня зовут Катя, я пианистка.
+                Я живу в Москве.
+                Я работаю в Московской филармонии.
+            </execise>
+            <execise>
+                Добрый день!
+                Меня зовут Полина, я танцовщица.
+                Я живу в Москве.
+                Я не работаю, у меня маленький ребёнок.
+            </execise>
+            <word>actor</word>
+            <word>actriz</word>
+            <word>cantante</word>
+            <execise>
+                меня зовут Люба.
+                Мы актёры, я живу в Москве.
+            </execise>
+            <word>bien</word>
+            <phrase>muy bien</phrase>
+            <phrase>muy interesante</phrase>
+            <phrase>esto es muy interesante</phrase>
+            <execise>
+                Добрый день!
+                Меня зовут Олег.
+                Я живу в Москве, учусь в театральном институте.
+            </execise>
+
+            <conjugation verb="gustar" type="Indicative presente"/>
+            <phrase>me gusta</phrase>
+            <phrase>te gusta</phrase>
+            <phrase>ella me gusta</phrase>
+            <phrase>Me gusta cantar</phrase>
+            <phrase> Me gusta bailar</phrase>
+            <phrase>No me gusta</phrase>
+            <phrase>Tú me gustas</phrase>
+            <phrase>Yo te gusto</phrase>
+            <phrase>No me gusta</phrase>
+            <phrase>Tú me gustas</phrase>
+            <phrase>Yo te gusto</phrase>
+            <phrase>Interesar</phrase>
+            <phrase>No me interesa a quién tú gustas</phrase>
+            <phrase>Tú me interesas</phrase>
+            <execise>
+                Как тебе нравится отдыхать?
+            </execise>
+            <conjugation verb="viajar" type="Indicative presente"/>
+            <prases>
+                ¿Qué tal?
+                Bien
+                Muy bien
+                Mal
+                Así - así
+            </prases>
+        </block>
+        <block>
+            <conjugation verb="estar" type="Indicative presente"/>
+            <phrase>Я нахожусь в Москве</phrase>
+            <phrase>¿Cómo estás?</phrase>
+            <phrase>Yo estoy bien</phrase>
+            <rule>Ser-Estar различия</rule>
+            <phrase>¿Qué tal?</phrase>
+            <phrase>¿Cómo estas?</phrase>
+            <phrase>¿Cómo esta Usted?</phrase>
+
+        </block>
+
+    </body>
+</lesson>
+

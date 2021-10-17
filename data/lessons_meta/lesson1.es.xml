@@ -1,0 +1,49 @@
+<lesson no="1">
+    <header>
+        <video src=""/>
+    </header>
+    <body>
+        <block id="1" video_position="1111" category="greetings">
+            <phrase>¡Hola!</phrase>
+            <phrase>¡Buenos dias!</phrase>
+            <phrase>¡Buenas tardes!</phrase>
+            <phrase>¡Buenas noches!</phrase>
+            <phrase>¡Adios!</phrase>
+            <phrase>¡Hasta la vista!</phrase>
+
+        </block>
+        <block id="2" video_position="1111">
+            <rule>Правило ударений</rule>
+        </block>
+        <block id="3" video_position="1111" category="thanks">
+
+            <block>
+                <rule>Правило произношения "c"</rule>
+                <phrase>¡Gracias!</phrase>
+            </block>
+            <phrase>Por favor</phrase>
+            <phrase>De nada</phrase>
+        </block>
+        <block category="introduction_to">
+            <phrase>¿Cómo te llamas?</phrase>
+            <rule>произношение LL</rule>
+            <phrase>Me llamo</phrase>
+            <phrase>Mucho gusto llamo</phrase>
+            <phrase variant="gender">Encantad(a/o)</phrase>
+        </block>
+        <block>
+            <conjugation verb="tomar" type="Indicativo presente"/>
+            <conjugation verb="hablar" type="Indicativo presente"/>
+            <conjugation verb="trabajar" type="Indicativo presente"/>
+            <rule>чтение j</rule>
+            <conjugation verb="Descansar" type="Indicativo presente"/>
+            <conjugation verb="Cantar" type="Indicativo presente"/>
+            <conjugation verb="Bailar"  type="Indicativo presente"/>
+            <conjugation verb="Ayudar" type="Indicativo presente"/>
+            <conjugation verb="Llamar" type="Indicativo presente"/>
+            <conjugation verb="Estudiar" type="Indicativo presente"/>
+            <conjugation verb="Tomar" type="Indicativo presente"/>
+        </block>
+    </body>
+</lesson>
+
